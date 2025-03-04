@@ -28,7 +28,7 @@ This project utilizes the following technologies for front-end development:
 
 ## Demo
 
-![Spreadsheet Demo](https://app.netlify.com/claim?utm_source=bolt#eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRfaWQiOiI1aDZmZEstVktNTXZuRjNiRlZUaktfU2JKVGgzNlNfMjJheTlpTHhVX0Q4Iiwic2Vzc2lvbl9pZCI6IjQyMTY5OTY2OjMwNDQ1NTkiLCJpYXQiOjE3NDEwODkxMTJ9.oJYR83BEw7iax_Pug-AkVlx5h7thx3w3BBOVQC12icc) **Preview**
+![Spreadsheet Demo](https://marvelous-faloodeh-ed7ed6.netlify.app/) **Preview**
 
 ## Installation
 
